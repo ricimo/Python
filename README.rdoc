@@ -1,4 +1,4 @@
 Beginner Python projects
 
 Learning Resources:
-Courseara: Intro to Programming
+Coursera: [Learn to Program: The Fundamentals] https://www.coursera.org/learn/learn-to-program
