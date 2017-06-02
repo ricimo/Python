@@ -1,1 +1,4 @@
 Beginner Python projects
+
+Learning Resources:
+Courseara: Intro to Programming
